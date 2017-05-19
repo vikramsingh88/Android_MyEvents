@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403155774223",
+    "firebase_url": "https://myevents-88dac.firebaseio.com",
+    "project_id": "myevents-88dac",
+    "storage_bucket": "myevents-88dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403155774223:android:3f2313ba7d422265",
+        "android_client_info": {
+          "package_name": "vikram.mindtree.com.myevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403155774223-55ssi055iujoqvcaspshr4mm014f5tga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vikram.mindtree.com.myevents",
+            "certificate_hash": "a96aa1b3cf816d1c6a567f24ab11fd8166496228"
+          }
+        },
+        {
+          "client_id": "403155774223-aqh2c4ui7aulej5tjgkmvou9795rv2qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SIw8ck7Os-7-IRk6WozTVTNptCWquG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403155774223-aqh2c4ui7aulej5tjgkmvou9795rv2qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

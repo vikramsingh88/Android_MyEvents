@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/keyboard_row">
+
+    <TextView
+        android:id="@+id/txt_td_teams"
+        style="@style/score_board_header"
+        android:background="@color/colorTableHeader"
+        android:text="@string/teams" />
+
+    <TextView
+        android:id="@+id/text_td_event"
+        style="@style/score_board_header"
+        android:background="@color/colorTableHeader"
+        android:text="@string/events" />
+
+    <TextView
+        android:id="@+id/txt_td_points"
+        style="@style/score_board_header"
+        android:background="@color/colorTableHeader"
+        android:text="@string/header_points" />
+
+    <TextView
+        android:id="@+id/txt_td_total"
+        style="@style/score_board_header"
+        android:background="@color/colorTableHeader"
+        android:text="@string/total_points" />
+
+</TableRow>

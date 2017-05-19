@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contain_team"
+    android:layout_width="match_parent"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingLeft="8dp"
+    android:clickable="true"
+    android:background="@drawable/keyboard_button_bg"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/row_icon"
+        android:src="@android:drawable/sym_def_app_icon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/row_text"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/row_icon"
+        android:layout_toEndOf="@+id/row_icon" />
+
+</RelativeLayout>
